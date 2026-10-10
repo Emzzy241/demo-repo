@@ -1,31 +1,31 @@
-# (Application Name)
+# My Demo Repo for Templating with webpack
 
-#### (Brief Description of Application)
+#### A demo App
 
-#### By (Your Name Here)
+#### By Dynasty
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _webpack_
+* _git_
+* _git bash_
+* _html_
 
 ## Description
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone the repo_
+* _Start writing your code_
+* _Add and Commit_
+* _Push to GitHub_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No Known Bugs_
 
 ## License
+MIT
 
 ## Contact Information
+@Emzzy241 - GitHub
